@@ -1,0 +1,332 @@
+{
+    "name": "SkullSwap LP Farms",
+    "timestamp": "2022-10-14T02:48:18.135Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 25
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+    "keywords": [
+      "quickswap",
+      "default"
+    ],
+    "active": [
+      {
+        "tokens": [
+          "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+          "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "FTM-fUSDT",
+        "name": "FTM-fUSDT",
+        "baseToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+        "rate": 100,
+        "pair": "0x7c5Ad52e51bA87a0cE8f9bBF0a9e66963DAE5810"
+      },
+      {
+        "tokens": [
+          "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+          "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "USDC-FTM",
+        "name": "USDC-FTM",
+        "baseToken": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+        "rate": 100,
+        "pair": "0xcac4915D7CF96078B0202DB5922BDF20510bc180"
+      },
+      {
+        "tokens": [
+          "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+          "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "SKULL-FTM",
+        "name": "SKULL-FTM",
+        "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+        "rate": 100,
+        "pair": "0x930443884ca966e269D38c38C5140Dd0551033F6"
+      },
+      {
+        "tokens": [
+          "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+          "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "SKULL-USDC",
+        "name": "SKULL-USDC",
+        "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+        "rate": 100,
+        "pair": "0x3c817a4a2B3eE429618d12C4e4Ad5e06eF91cd91"
+      },
+      {
+        "tokens": [
+          "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+          "0xF24Bcf4d1e507740041C9cFd2DddB29585aDCe1e"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "SKULL-BEETS",
+        "name": "SKULL-BEETS",
+        "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+        "rate": 100,
+        "pair": "0xcc07104494FD157aE7f0ebf7506DA4CD7B33A2DA"
+      },
+      {
+        "tokens": [
+          "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+          "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "SKULL-BOO",
+        "name": "SKULL-BOO",
+        "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+        "rate": 100,
+        "pair": "0x6ac2d9c34AbaDec7c491E0266e4B3595713F6e79"
+      },
+      {
+        "tokens": [
+          "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+          "0x5Cc61A78F164885776AA610fb0FE1257df78E59B"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "SKULL-SPIRIT",
+        "name": "SKULL-SPIRIT",
+        "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+        "rate": 100,
+        "pair": "0xD1A70aE67A0AF704cd4802521A12D83b1fd4284e"
+      },
+      {
+        "tokens": [
+          "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+          "0xC5e2B037D30a390e62180970B3aa4E91868764cD"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "SKULL-TAROT",
+        "name": "SKULL-TAROT",
+        "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+        "rate": 100,
+        "pair": "0x848f75297D73036e38Df2E752af20E0Da6827Be2"
+      },
+      {
+        "tokens": [
+          "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+          "0x74b23882a30290451A17c44f4F05243b6b58C76d"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "SKULL-ETH",
+        "name": "SKULL-ETH",
+        "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+        "rate": 100,
+        "pair": "0x2e582B5D3E8f5741ef800CC99DD60f15f80B6151"
+      },
+      {
+        "tokens": [
+          "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+          "0x321162Cd933E2Be498Cd2267a90534A804051b11"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "SKULL-BTC",
+        "name": "SKULL-BTC",
+        "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+        "rate": 100,
+        "pair": "0x7fa8c15eBeF8b4aD6Fe3F8B5bFcA04969B3DCAeD"
+      },
+      {
+        "tokens": [
+          "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+          "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "SKULL-DAI",
+        "name": "SKULL-DAI",
+        "baseToken": "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b",
+        "rate": 100,
+        "pair": "0x98E57389692E88C716f08b6870e1E9605854353f"
+      },
+      {
+        "tokens": [
+          "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+          "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "BUSD-USDC",
+        "name": "BUSD-USDC",
+        "baseToken": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+        "rate": 100,
+        "pair": "0xE177248332EC4B8845b2F8B0b2e493dd46a229af"
+      },
+      {
+        "tokens": [
+          "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+          "0x049d68029688eAbF473097a2fC38ef61633A3C7A"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "USDC-fUSDT",
+        "name": "USDC-fUSDT",
+        "baseToken": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+        "rate": 100,
+        "pair": "0x68827Ea73fB099E30A387c8A5A0a99BBF45070A6"
+      },
+      {
+        "tokens": [
+          "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+          "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "USDC-DAI",
+        "name": "USDC-DAI",
+        "baseToken": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+        "rate": 100,
+        "pair": "0x295a21e0c07Eb66949a4a2eEA531E8eD48Df476A"
+      },
+      {
+        "tokens": [
+          "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+          "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "TOMB-FTM",
+        "name": "TOMB-FTM",
+        "baseToken": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+        "rate": 100,
+        "pair": "0x644465c4a90109343eEF5f3b3b1b53457fFb05dA"
+      },
+      {
+        "tokens": [
+          "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+          "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "TOMB-USDC",
+        "name": "TOMB-USDC",
+        "baseToken": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+        "rate": 100,
+        "pair": "0xabbb6E960F14a22f38920b96B1D369d9Adb19429"
+      },
+      {
+        "tokens": [
+          "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
+          "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "SPIRIT-FTM",
+        "name": "SPIRIT-FTM",
+        "baseToken": "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
+        "rate": 100,
+        "pair": "0xF33f74BcBcfEF907016c74a2C5b43f71c55B2Ff6"
+      },
+      {
+        "tokens": [
+          "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+          "0x74b23882a30290451A17c44f4F05243b6b58C76d"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "BTC-ETH",
+        "name": "BTC-ETH",
+        "baseToken": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+        "rate": 100,
+        "pair": "0x0D3645f95933BC2b732C5b49f19116A26916489A"
+      },
+      {
+        "tokens": [
+          "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+          "0x321162Cd933E2Be498Cd2267a90534A804051b11"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "FTM-BTC",
+        "name": "FTM-BTC",
+        "baseToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+        "rate": 100,
+        "pair": "0x5c9E41fB3DF2c7e8e77656A718728996c378167c"
+      },
+      {
+        "tokens": [
+          "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+          "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "FTM-DAI",
+        "name": "FTM-DAI",
+        "baseToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+        "rate": 100,
+        "pair": "0xB0863c5bA2EE356E9EfE7d0E5314083A475DA957"
+      },
+      {
+        "tokens": [
+          "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
+          "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "EQUAL-USDC",
+        "name": "EQUAL-USDC",
+        "baseToken": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
+        "rate": 100,
+        "pair": "0x66D799723C54348A32f3b5DaC2Fb2D58495A3C39"
+      },
+      {
+        "tokens": [
+          "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
+          "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "EQUAL-FTM",
+        "name": "EQUAL-FTM",
+        "baseToken": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
+        "rate": 100,
+        "pair": "0x1eEF67f5cc306e2658503c336dC658a6451Bb018"
+      },
+      {
+        "tokens": [
+          "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
+          "0xfa5992A8A47aF7029e04eC6a95203AD3f301460b"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "EQUAL-SKULL",
+        "name": "EQUAL-SKULL",
+        "baseToken": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
+        "rate": 100,
+        "pair": "0xE17C1328580Dfe1E57B364F1C57D2243148f1a07"
+      },
+      {
+        "tokens": [
+          "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+          "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
+        ],
+        "stakingRewardAddress": "0x536Ef681fb6333aDb87E2f6d5695AFc91E039ebD",
+        "ended": false,
+        "lp": "BOO-FTM",
+        "name": "BOO-FTM",
+        "baseToken": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+        "rate": 100,
+        "pair": "0xe27F91fdB5528f65C000a1AF1c9EDbDcB3a5A1F0"
+      }
+    ],
+    "closed": [
+    ]
+  }
+  
